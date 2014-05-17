@@ -11,6 +11,7 @@ set shiftwidth=8
 "echo "i love leeyiw"
 set incsearch "搜索的时候高亮
 set cursorline
+set colorcolumn=80
 hi CursorLine cterm=NONE ctermbg=BLACK ctermfg=NONE guibg=black guifg=NONE
 map <space> viw
 imap <c-d> <esc>ddi
